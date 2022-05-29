@@ -1,0 +1,6 @@
+.idea
+.DS_Store
+__pycache__
+venv
+0001_initial.py
+db.sqlite3

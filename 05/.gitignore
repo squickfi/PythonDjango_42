@@ -1,0 +1,7 @@
+requirements.txt
+__pycache__
+django_venv
+db.sqlite3
+.DS_Store
+.idea
+0001_initial.py
